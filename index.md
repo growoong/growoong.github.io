@@ -15,13 +15,9 @@ UIUX 관련 자료들을 수집하고 공유합니다.
 
 ---
 
-
-[Blog](https://lifewebstudy.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
 [Portfolio](#){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 }
+[Blog](https://lifewebstudy.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-
-
-
-
-
+포트폴리오는 준비중입니다.
+{: .fw-300 .fs-2 }
 
