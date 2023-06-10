@@ -23,7 +23,7 @@ nav_order: 2
 |[Openland Web - Design system](https://www.figma.com/community/file/1043155661476968345)|web Design system|
 |[Material3 Design Kit](https://www.figma.com/community/file/1035203688168086460)||
 |[Apple Design Resources – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511)|애플공식|
-|[Apple iOS 13/14/15/16 - MacOS - ipadOS - Mockup | Complete UI Kit.](https://www.figma.com/community/file/1129042711905918112)||
+|[Apple iOS 13/14/15/16 - MacOS - ipadOS - Mockup Complete UI Kit.](https://www.figma.com/community/file/1129042711905918112)||
 |[Bootstrap UI Kit](https://www.figma.com/community/file/876022745968684318)||
 |||
 
