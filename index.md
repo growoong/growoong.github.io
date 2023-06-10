@@ -16,9 +16,13 @@ UIUX 관련 자료들을 수집하고 공유합니다.
 ---
 
 - [Portfolio](#)
-  준비중
+Coming soon
+{: .label .label-yellow }
+
 - [개인 Blog](#)
-  준비중 
+Coming soon
+{: .label .label-yellow }
+
 
 
 
