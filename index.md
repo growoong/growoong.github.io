@@ -6,18 +6,18 @@ description: "description"
 permalink: /
 ---
 
-# Welcome to github.io
+# Welcome to Growoong UIUX library
 {: .fs-8 }
 
-Github Description
+UIUX 관련 자료들을 수집하고 공유합니다.
 {: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
-... (생략) ...
+- [Portfolio](#)
+  준비중
+- [개인 Blog](#)
+  준비중 
 
 
 
