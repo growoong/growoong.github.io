@@ -15,8 +15,9 @@ UIUX 관련 자료들을 수집하고 공유합니다.
 
 ---
 
-- [Portfolio](#)
- Coming soon
+[Portfolio](#)
+
+Coming soon
 {: .label .label-yellow }
 
 - [개인 Blog](https://lifewebstudy.com/)
