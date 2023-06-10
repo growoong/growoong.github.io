@@ -6,7 +6,12 @@ has_children: ture
 ---
 
 # Figma 자료모음
-{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 
 
