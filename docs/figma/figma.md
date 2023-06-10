@@ -1,9 +1,9 @@
 ---
 layout: default
-nav_order: 3
 title: Figma
-has_children: ture
-
+nav_order: 3
+has_children: true
 ---
 
 # Figma
+{: .no_toc }
