@@ -5,5 +5,5 @@ title: Figma
 has_children: ture
 ---
 
-# Figma 자료모음
+# Figma
 {: .no_toc }
