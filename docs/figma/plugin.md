@@ -35,7 +35,7 @@ nav_order: 1
 
 |이름|설명|
 |:--:|--|
-|Bootstrap Icons|부트스트랩에서 제공하는 아이콘 팩|
+|Bootstrap Icons||
 |Iconify||
 |Flat-Icons||
 |Material Design Icons||
