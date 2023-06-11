@@ -21,3 +21,7 @@ UIUX 관련 자료들을 수집하고 공유합니다.
 포트폴리오 준비중
 {: .fw-300 .fs-2 }
 
+---
+### SNS
+- [Figma](https://www.figma.com/@growoong)
+
