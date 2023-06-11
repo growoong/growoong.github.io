@@ -24,6 +24,5 @@ UIUX 관련 자료들을 수집하고 공유합니다.
 ---
 ### SNS
 ![Figma-icon](/assets/images/ic_figma2.png "Figma-icon")
-
-- [Figma](https://www.figma.com/@growoong)
+[Figma](https://www.figma.com/@growoong)
 
