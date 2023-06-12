@@ -146,6 +146,12 @@ IT 소식을 볼 수 있는 사이트
 |[Envato marcket](https://themeforest.net/category/wordpress)|web|
 |[Monster one](https://monsterone.com/wordpress/)|web, 템플릿 구매용|
 
+#### Color
+
+|링크|설명|
+|:---:|---|
+|[Brandfetch](https://brandfetch.com/)|브랜드의 컬러를 볼 수있는 사이트, 피그마 플러그인도 존재|
+
 
 #### Icon
 
