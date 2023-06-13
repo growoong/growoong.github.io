@@ -7,11 +7,19 @@ permalink: /
 ---
 
 #### Welcome to
-# UIUX library
+# library
 {: .fs-8 }
 
-UIUX 관련 자료들을 수집하고 공유합니다.
-{: .fs-6 .fw-300 }
+
+필요할때 바로바로 꺼내 볼 수 있도록, 정리해 놓고 있습니다.
+{: .fs-4 .fw-300 }
+
+- UI
+- Reference
+- UX
+- FrontEnd
+- IT Contents
+
 
 ---
 
