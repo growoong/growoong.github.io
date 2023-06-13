@@ -10,9 +10,11 @@ permalink: /
 # library
 {: .fs-8 }
 
-
 유용한 사이트들을 정리하고 공유합니다.
 {: .fs-4 .fw-300 }
+
+23.06.13 update
+{: .fs-2 .fw-300 }
 
 ### 공유내용
 - UI
@@ -23,6 +25,7 @@ permalink: /
 
 
 ---
+### SNS & Contact
 [Portfolio](#){: .fs-6 fw-300}
 
 포트폴리오 준비중
@@ -30,14 +33,5 @@ permalink: /
 
 [Blog](https://lifewebstudy.com/){: .fs-6 fw-300}
 
-
-<!-- 
-[Portfolio](#){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 mr-2 }
-[Blog](https://lifewebstudy.com/){: .btn .fs-5 .mb-4 .mb-md-0 } -->
-
-
-
----
-### SNS
 [![Figma-link](/assets/images/ic_figma2.png "Growoong-figma-link")](https://www.figma.com/@growoong)
 
