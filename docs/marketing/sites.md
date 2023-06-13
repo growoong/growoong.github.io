@@ -19,3 +19,5 @@ nav_order: 1
 |링크|비고|
 |:--:|--|
 |[HubSpot Blog](https://blog.hubspot.com/?hubs_content=blog.hubspot.com%2Fmarketing%2Fcompetitive-analysis-kit&hubs_content-cta=null)||
+|[에스이오_마케팅](https://seo-marketing.co.kr/)||
+|[아이보스](https://www.i-boss.co.kr/)||
