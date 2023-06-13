@@ -26,7 +26,7 @@ Update 23.06.13
 
 ---
 ### SNS & Contact
-[Portfolio](#){: .fs-6 fw-300 .d-inline-block .mt-5 } `준비중`
-[Blog](https://lifewebstudy.com/){: .fs-6 fw-300 .d-block .mt-2 }
-[Figma](https://www.figma.com/@growoong){: .fs-6 fw-300 .d-block .mt-2 }
+[Portfolio](#){: .fs-4 fw-300 .d-inline-block .mt-5 } `준비중`
+[Blog](https://lifewebstudy.com/){: .fs-4 fw-300 .d-block .mt-2 }
+[Figma](https://www.figma.com/@growoong){: .fs-4 fw-300 .d-block .mt-3 }
 
