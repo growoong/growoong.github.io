@@ -14,7 +14,7 @@ permalink: /
 {: .fs-4 .fw-300 }
 
 {: .highlight }
-Update 23.06.13
+Last Update 23.06.13
 {: .fs-3 .fw-300 }
 
 ### 공유내용
