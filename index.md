@@ -26,7 +26,7 @@ Update 23.06.13
 
 ---
 ### SNS & Contact
-[Portfolio](#){: .fs-6 fw-300 .d-block }
+[Portfolio](#){: .fs-6 fw-300 .d-block .mt-5 }
 
 포트폴리오 준비중
 {: .fw-300 .fs-2 }
