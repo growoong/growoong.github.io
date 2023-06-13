@@ -32,6 +32,5 @@ permalink: /
 {: .fw-300 .fs-2 }
 
 [Blog](https://lifewebstudy.com/){: .fs-6 fw-300}
-
-[![Figma-link](/assets/images/ic_figma2.png "Growoong-figma-link")](https://www.figma.com/@growoong)
+[Figma](https://www.figma.com/@growoong){: .fs-6 fw-300}
 
