@@ -26,11 +26,11 @@ Update 23.06.13
 
 ---
 ### SNS & Contact
-[Portfolio](#){: .fs-6 fw-300}
+[Portfolio](#){: .fs-6 fw-300 .d-block }
 
 포트폴리오 준비중
 {: .fw-300 .fs-2 }
 
-[Blog](https://lifewebstudy.com/){: .fs-6 fw-300}
-[Figma](https://www.figma.com/@growoong){: .fs-6 fw-300}
+[Blog](https://lifewebstudy.com/){: .fs-6 fw-300 .d-block }
+[Figma](https://www.figma.com/@growoong){: .fs-6 fw-300 .d-block }
 
