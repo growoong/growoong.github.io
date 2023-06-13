@@ -11,9 +11,10 @@ permalink: /
 {: .fs-8 }
 
 
-필요할때 바로바로 꺼내 볼 수 있도록, 정리해 놓고 있습니다.
+유용한 사이트들을 정리하고 공유합니다.
 {: .fs-4 .fw-300 }
 
+### 공유내용
 - UI
 - Reference
 - UX
@@ -22,12 +23,19 @@ permalink: /
 
 
 ---
-
-[Portfolio](#){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 mr-2 }
-[Blog](https://lifewebstudy.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Portfolio](#){: .fs-6 fw-300}
 
 포트폴리오 준비중
 {: .fw-300 .fs-2 }
+
+[Blog](https://lifewebstudy.com/){: .fs-6 fw-300}
+
+
+<!-- 
+[Portfolio](#){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 mr-2 }
+[Blog](https://lifewebstudy.com/){: .btn .fs-5 .mb-4 .mb-md-0 } -->
+
+
 
 ---
 ### SNS
