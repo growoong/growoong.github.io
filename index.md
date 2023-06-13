@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "UIUX, IT Library"
+description: "Growoong | UIUX, IT Library"
 permalink: /
 ---
 
