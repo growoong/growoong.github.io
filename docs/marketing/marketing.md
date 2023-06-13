@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # Marketing
-{: no_toc}
+{: .no_toc}
