@@ -161,6 +161,7 @@ IT 소식을 볼 수 있는 사이트
 |[Bootstrap Icon](https://icons.getbootstrap.com/)||
 |[Iconmonstr](https://iconmonstr.com/)|디자이너 제작/저작권프리|
 |[ICON8](https://icons8.com/)||
+|[Fluenticons](https://fluenticons.co/)|마이크로소프트 아이콘 모음집|
 
 
 
