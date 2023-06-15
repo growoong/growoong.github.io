@@ -28,6 +28,7 @@ nav_order: 1
 |[리스닝 마인드](https://www.ascentkorea.com/ascent-korea-official-blog-listeningmind/)|검색엔진 최적화, 마케팅 트렌드, SEO, 등|
 |[생각노트](https://think-note.com/)|브랜딩, 마케팅 트렌드|
 
+---
 
 ## 유튜브
 
@@ -39,6 +40,7 @@ nav_order: 1
 |[곽팀장](https://www.youtube.com/c/%EA%B3%BD%ED%8C%80%EC%9E%A5/featured)||
 |[팡고TV](https://www.youtube.com/channel/UCSAViyUVbsTHii2pfaGRKng/videos)||
 
+---
 
 ## 뉴스레터
 
@@ -47,6 +49,7 @@ nav_order: 1
 |[펜타레터](https://page.stibee.com/archives/79436)||
 |[서울라이터](https://www.seoulwriter.com/letter)|현직 카피라이터가 큐레이션하는 트렌드 뉴스레터|
 
+---
 
 ## SNS&Platform
 
