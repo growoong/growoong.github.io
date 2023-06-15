@@ -23,6 +23,7 @@ nav_order: 1
 |:--:|--|
 |[Devdocs](https://devdocs.io/)|공식문서 모음집|
 |[MDN_mozilla](https://developer.mozilla.org/ko/)||
+|[티스토리 스킨 제작 가이드](https://tistory.github.io/document-tistory-skin/)||
 
 
 ---
