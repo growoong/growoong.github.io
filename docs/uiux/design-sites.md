@@ -92,6 +92,7 @@ IT 소식을 볼 수 있는 사이트
 |링크|설명|
 |:---:|---|
 |[UIUX기본가이드 매거진-브런치](https://brunch.co.kr/magazine/muxui)|UIUX|
+|[한국 웹 콘텐츠 접근성 지침](https://www.wah.or.kr:444/Participation/guide.asp)|한국 웹접근성, 자료|
 |[PXD](https://story.pxd.co.kr/)|디자인&IT Trend|
 |[Freepick Trend](https://www.freepik.com/visual-trends?_gl=1*og8rew*fp_ga*MTUyNDg1OTQ4MC4xNjgzNDMwODg0*fp_ga_PK4FYLJC1D*MTY4NjQ3NzczMC4xLjEuMTY4NjQ3NzgxOC40MS4wLjA.&_ga=2.102446849.1451696093.1686476714-1524859480.1683430884#home-trends)|프리픽에서 제공하는 비주얼 트렌드 리포트|
 |[🔥UX momeent](https://uxmovement.com/)||
@@ -157,6 +158,8 @@ IT 소식을 볼 수 있는 사이트
 |[Web-Gradients](https://webgradients.com/)|그라데이션 컬러 추천|
 |[RGB 팬톤](https://www.ginifab.com/feeds/pms/)|RGB 팬톤 컬러값|
 |[CMYK 팬톤](https://www.ginifab.com/feeds/pms/cmyk_to_pantone.php)|CMYK 팬톤 컬러값|
+|[Use Contrast](https://usecontrast.com/)|색 대비 확인 사이트|
+|[Color Safe](http://colorsafe.co/)|색 대비 확인 사이트2 / 배경색을 지정하면 그 배경색을 기준으로 괜찮은 요소 색상을 추천해준다.|
 
 
 #### Icon
