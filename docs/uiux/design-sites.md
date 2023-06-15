@@ -144,7 +144,7 @@ IT 소식을 볼 수 있는 사이트
 
 |링크|설명|
 |:---:|---|
-|[Adobe Color Wheel](https://color.adobe.com/ko/create/color-wheel)||
+|[Adobe Color Wheel](https://color.adobe.com/ko/create/color-wheel)|세부적인 컬러 커스터마이징 후, 어도비 프로그램과 연동도 가능.|
 |[Brandfetch](https://brandfetch.com/)|브랜드의 컬러를 볼 수있는 사이트, 피그마 플러그인도 존재|
 |[Html Color Code](https://htmlcolorcodes.com/)||
 |[Color Space](https://mycolor.space/)|색상값 입력 시, 어울리는 색상 추천|
