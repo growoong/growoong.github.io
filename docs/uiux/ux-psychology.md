@@ -25,7 +25,7 @@ UX/UI의 10가지 심리학 법칙 - 존 야블론스키
 |피츠의 법칙(Fitts’s law)|정보의 크기가 클수록, 거리가 가까울수록 선택의 시간은 줄어든다.|
 |힉의 법칙(Hick’s law)|의사결정에 걸리는 시간은 선택지의 개수와 복잡성에 비례해 늘어난다.|
 |밀러의 법칙(Miller’s law)|정보의 양에 상관없이 인간의 기억범위는 대략 7정도로 제한된다.|
-|포스텔의 법칙(Postel’s law)|자신이 행하는 일은 엄격하게, 남의 것을 받아들일 때는 너그럽게.|[참고](https://ekimnida.tistory.com/34)|
+|포스텔의 법칙(Postel’s law)|자신이 행하는 일은 엄격하게, 남의 것을 받아들일 때는 너그럽게.[참고](https://ekimnida.tistory.com/34)|
 |피크엔드 법칙(Peak-End-Rule)||
 |테슬러의 법칙(Tesler’s law)||
 |폐쇄성의 법칙(Law of Closure)||
