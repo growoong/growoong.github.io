@@ -6,9 +6,6 @@ nav_order: 1
 ---
 # UIUX Design Sites
 
-UIUX및 디자인 관련하여 유용한 웹사이트를 수집해 놓았습니다.
-{: .fs-5 .fw-300 }
-
 ---
 
 ## Table of contents
