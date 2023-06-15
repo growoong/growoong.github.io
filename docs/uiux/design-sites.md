@@ -81,7 +81,7 @@ IT 소식을 볼 수 있는 사이트
 |[NN/g](https://www.nngroup.com/)||
 |[UI Design Gride](http://uidesignguides.com/)||
 |[PXD](https://story.pxd.co.kr/)||
-|[라이트 브랜인](https://blog.rightbrain.co.kr/)||
+|[라이트 브랜인 블로그](https://blog.rightbrain.co.kr/)||
 |[🔥리메인](https://www.remain.co.kr/page/designsystem/icon-size.php)|기본을 탄탄하게 볼 수 있음|
 |[UX툴 모음](https://brunch.co.kr/@beusable/46)||
 |[디자인 나침반](https://designcompass.org/)||
