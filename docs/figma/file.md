@@ -64,3 +64,13 @@ nav_order: 2
 |--|--|
 |Tables(List view)||
 |Input States for Dark & Light Mode (Community)||
+
+
+---
+
+# Mockup
+
+|링크|설명|
+|--|--|
+|[Minimal Apple devices Mockups](https://www.figma.com/community/file/813403365694699823)|화이트 톤, 깔끔|
+
