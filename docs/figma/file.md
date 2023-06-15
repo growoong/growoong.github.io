@@ -52,8 +52,7 @@ nav_order: 2
 
 |링크|설명|
 |--|--|
-|[Store Badges](https://www.figma.com/community/file/1171962252273559219)|50+ Download Platform Badges | BRIX Templates
-|
+|[Store Badges](https://www.figma.com/community/file/1171962252273559219)|50+ Download Platform Badges | BRIX Templates|
 |[Apple Badges and Logos](https://www.figma.com/community/file/1133751281916939807)||
 |[Tech Stack Logos](https://www.figma.com/community/file/1215867213830319287)|color 버전만 있음. BG만 light/dark 버전이 있다.|
 |[Social Icons](https://www.figma.com/community/file/1062685834129210498)|light/dark/color 버전 제공|
