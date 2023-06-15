@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sites
+title: Designe Sites
 parent: UIUX
 nav_order: 1
 ---
-# UIUX 유용한 사이트 모음
+# UIUX Design Sites
 
 UIUX및 디자인 관련하여 유용한 웹사이트를 수집해 놓았습니다.
 {: .fs-5 .fw-300 }
