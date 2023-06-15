@@ -10,15 +10,22 @@ nav_order: 2
 UX개론 모음 사이트
 [https://lawsofux.com/](https://lawsofux.com/)
 
+UX/UI의 10가지 심리학 법칙 - 존 야블론스키
+
+
+{: .note }
+하루에 다섯개씩 서치, 공부
+
+
 ---
 
 |법칙|설명|
 |--|--|
 |제이콥의 법칙(Jakob’s law)|사용자는 자신이 알고 있는 방식으로 동작하길 원한다.|
-|피츠의 법칙(Fitts’s law)||
-|힉의 법칙(Hick’s law)||
-|밀러의 법칙(Miller’s law)||
-|포스텔의 법칙(Postel’s law)||
+|피츠의 법칙(Fitts’s law)|정보의 크기가 클수록, 거리가 가까울수록 선택의 시간은 줄어든다.|
+|힉의 법칙(Hick’s law)|의사결정에 걸리는 시간은 선택지의 개수와 복잡성에 비례해 늘어난다.|
+|밀러의 법칙(Miller’s law)|정보의 양에 상관없이 인간의 기억범위는 대략 7정도로 제한된다.|
+|포스텔의 법칙(Postel’s law)|자신이 행하는 일은 엄격하게, 남의 것을 받아들일 때는 너그럽게.|[참고](https://ekimnida.tistory.com/34)|
 |피크엔드 법칙(Peak-End-Rule)||
 |테슬러의 법칙(Tesler’s law)||
 |폐쇄성의 법칙(Law of Closure)||
@@ -44,6 +51,10 @@ UX개론 모음 사이트
 |부정성 편향(Negativity Bias)||
 |매력의 편향 (Attractiveness Bias)||
 |파레토 원리(Pareto Principle)||
+|[참고하여 작성하기](https://yozm.wishket.com/magazine/detail/452/)||
+|||
+|||
+|||
 
 
 |효과|설명|
@@ -81,6 +92,7 @@ UX개론 모음 사이트
 
 |인지 심리학|설명|
 |--|--|
+|인지 부하(congnitive)|제품을 처음 접한 사용자가 인터페이스를 익히고 인터렉션 하는 데 필요한 정신적 자원의 양|
 |매슬로의동기이론||
 |행동경제학||
 |스트루프효과||
