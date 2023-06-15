@@ -25,7 +25,7 @@ nav_order: 1
 |[아이보스](https://www.i-boss.co.kr/)||
 |[오픈애즈](http://www.openads.co.kr/home)||
 |[메조 미디어 insight M](https://www.mezzomedia.co.kr/insight_m)|시장현황 파악, 타겟별 세분화 리포트 확인, 다양한 마케팅 정보 공유|
-|[리스닝 마인드](https://www.ascentkorea.com/ascent-korea-official-blog-listeningmind/)|검색엔진 최적화, 마케팅 트랜드, SEO, 등|
+|[리스닝 마인드](https://www.ascentkorea.com/ascent-korea-official-blog-listeningmind/)|검색엔진 최적화, 마케팅 트렌드, SEO, 등|
 |[생각노트](https://think-note.com/)|브랜딩, 마케팅 트렌드|
 
 
@@ -44,20 +44,18 @@ nav_order: 1
 
 |링크|비고|
 |:--:|--|
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+|[펜타레터](https://page.stibee.com/archives/79436)||
+|[서울라이터](https://www.seoulwriter.com/letter)|현직 카피라이터가 큐레이션하는 트렌드 뉴스레터|
 
 
-## Facebook-Page
+## SNS&Platform
 
-|링크|비고|
+|링크|분류|
 |:--:|--|
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-
+|[광고의 모든것](https://www.facebook.com/AllaboutAD)|Facebook|
+|[일간 마케팅](https://www.facebook.com/dailymaarketing)|Facebook|
+|[조간 마케팅](https://www.facebook.com/mktpaper/)|Facebook|
+|[브랜드 보이-Facebook](https://www.facebook.com/Brandboy1/)|Facebook|
+|[이름없는 스터디](https://brunch.co.kr/@nonamestudy)|Brunch|
+|[영감노트](https://www.instagram.com/ins.note)|Instagram|
+|[커리어리](https://careerly.co.kr/)|Platform|
