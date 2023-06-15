@@ -68,7 +68,7 @@ nav_order: 2
 
 ---
 
-# Mockup
+## Mockup
 
 |링크|설명|
 |--|--|
