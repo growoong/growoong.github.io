@@ -57,7 +57,7 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 |[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`||
 |[CSS 디자인 어워드](https://cssdesignawards.com)|`web`||
 |[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`||
-|[윗 wwit](https://wwit.design/)|`web`||
+|[윗 wwit](https://wwit.design/)|`mobile`||
 |[collectui](https://collectui.com/designs)|`web`||
 |[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`||
 |[디비컷](https://www.dbcut.com/)|`web`||
