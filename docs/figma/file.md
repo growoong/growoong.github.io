@@ -46,15 +46,18 @@ nav_order: 2
 |링크|설명|
 |--|--|
 |[Apple emoji icons (Community)](https://www.figma.com/community/file/1005122464237232101)|애플 이모지|
-|Cryptocurrency Logos& Icons||
 
 
 ## logo
 
 |링크|설명|
 |--|--|
-|Store Badges||
-|Download Badges||
+|[Store Badges](https://www.figma.com/community/file/1171962252273559219)|50+ Download Platform Badges | BRIX Templates
+|
+|[Apple Badges and Logos](https://www.figma.com/community/file/1133751281916939807)||
+|[Tech Stack Logos](https://www.figma.com/community/file/1215867213830319287)|color 버전만 있음. BG만 light/dark 버전이 있다.|
+|[Social Icons](https://www.figma.com/community/file/1062685834129210498)|light/dark/color 버전 제공|
+
 
 ---
 
@@ -62,8 +65,8 @@ nav_order: 2
 
 |링크|설명|
 |--|--|
-|Tables(List view)||
-|Input States for Dark & Light Mode (Community)||
+|[Tables(List view)](https://www.figma.com/community/file/1201455928454894690)||
+|[Input States for Dark & Light Mode (Community)](https://www.figma.com/community/file/1163918149351760613)||
 
 
 ---
