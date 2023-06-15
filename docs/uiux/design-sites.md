@@ -87,11 +87,12 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 ---
 
 ## IT Contents
-IT 소식을 볼 수 있는 사이트
+IT Contents, 자료
 
 |링크|설명|
 |:---:|---|
 |[UIUX기본가이드 매거진-브런치](https://brunch.co.kr/magazine/muxui)|UIUX|
+|[w3 국제 웹 콘텐츠 접근성 기준](https://www.w3.org/TR/WCAG21/)||
 |[한국 웹 콘텐츠 접근성 지침](https://www.wah.or.kr:444/Participation/guide.asp)|한국 웹접근성, 자료|
 |[PXD](https://story.pxd.co.kr/)|디자인&IT Trend|
 |[Freepick Trend](https://www.freepik.com/visual-trends?_gl=1*og8rew*fp_ga*MTUyNDg1OTQ4MC4xNjgzNDMwODg0*fp_ga_PK4FYLJC1D*MTY4NjQ3NzczMC4xLjEuMTY4NjQ3NzgxOC40MS4wLjA.&_ga=2.102446849.1451696093.1686476714-1524859480.1683430884#home-trends)|프리픽에서 제공하는 비주얼 트렌드 리포트|
