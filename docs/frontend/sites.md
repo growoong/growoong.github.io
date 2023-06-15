@@ -8,9 +8,6 @@ nav_order: 1
 # Sites
 코딩자료 공식문서, 기타 유용한 정보 모음
 
-{: .note }
-링크 더 모이면, 카테고리 나눌 예정
-{: .fs-3 .fw-300 }
 
 
 ## Table of contents
@@ -28,6 +25,7 @@ nav_order: 1
 |[MDN_mozilla](https://developer.mozilla.org/ko/)||
 
 
+---
 
 ## 문서
 
@@ -46,18 +44,17 @@ nav_order: 1
 |[고퀄리티 개발모음](https://github.com/Integerous/goQuality-dev-contents)||
 |[면접관련 질문](https://github.com/jojoldu/junior-recruit-scheduler)||
 |[취준생이 반드시 알아야할 FE 지식](https://github.com/baeharam/Must-Know-About-Frontend)||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+|[벨로퍼트와 함께 하는 모던 자바스크립트](https://learnjs.vlpt.us/)||
+|[벨로퍼트와 함께 하는 모던 리액트](https://react.vlpt.us/)||
+|[리액트를 다루는 기술(개정판)](https://thebook.io/080203/)||
+|[TypeScript Cookbook](https://2woongjae.notion.site/TypeScript-Cookbook-727820ac0d4544498ebe732e940816f4)||
+|[DevFest WebTech CodeLab 2019](https://hyunseob.notion.site/DevFest-WebTech-CodeLab-fcc4ab44f4e34efe850a199dcb95ad01)||
+|[라인블로그 React 컴포넌트를 커스텀 훅으로 제공하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-3)||
+|[NAVER TECH CONCERT 2020](https://tv.naver.com/v/15353556/list/629240)|100만 달러짜리 빠른 앱을 만드는 비법 전수|
+|[DEVIEW 2020](https://deview.kr/2020)||
 
 
+---
 
 ## Tech Blog
 
@@ -78,7 +75,7 @@ nav_order: 1
 |[무신사](https://medium.com/musinsa-tech)||
 |[Google](https://developers.googleblog.com/)||
 
-
+---
 
 ## 유용한
 
@@ -89,7 +86,7 @@ nav_order: 1
 |[Readme](https://readme.so/)|Readme를 간편하게 만들 수 있음|
 |[언어 번역기](https://github.com/onelang/OneLang)|동시에 여러 언어로 작성할 수 있음|
 
-
+---
 
 ## Game
 
@@ -99,6 +96,7 @@ nav_order: 1
 |[Flexbox-froggy](https://flexboxfroggy.com/#ko)|Css, Flexbox를 배울 수 있음|
 |[Css-Grid-garden](https://cssgridgarden.com/#ko)|Css, Grid를 배울 수 있음|
 
+---
 
 ## 유튜브
 
