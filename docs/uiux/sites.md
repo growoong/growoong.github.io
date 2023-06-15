@@ -125,11 +125,23 @@ IT 소식을 볼 수 있는 사이트
 |[Envato marcket](https://themeforest.net/category/wordpress)|web|
 |[Monster one](https://monsterone.com/wordpress/)|web, 템플릿 구매용|
 
+
 #### Color
 
 |링크|설명|
 |:---:|---|
 |[Brandfetch](https://brandfetch.com/)|브랜드의 컬러를 볼 수있는 사이트, 피그마 플러그인도 존재|
+|[Html Color Code](https://htmlcolorcodes.com/)||
+|[Color Space](https://mycolor.space/)|색상값 입력 시, 어울리는 색상 추천|
+|[Flatuicolors](https://flatuicolors.com/)|색상 추천|
+|[Paletton](https://paletton.com/#uid=1000u0kjqmC94zdecrPobhQtLcl)|보색, 유사색 참고|
+|[Color Hunt](https://colorhunt.co/)|색상 조합 참고|
+|[Palettemaker](https://palettemaker.com/)|5가지 색상 조합 참고|
+|[2colors](https://2colors.colorion.co/)|2가지 색상 조합 참고|
+|[Colinkeany](http://www.colinkeany.com/blend/)|2가지 색상 그라데이션|
+|[Web-Gradients](https://webgradients.com/)|그라데이션 컬러 추천|
+|[RGB 팬톤](https://www.ginifab.com/feeds/pms/)|RGB 팬톤 컬러값|
+|[CMYK 팬톤](https://www.ginifab.com/feeds/pms/cmyk_to_pantone.php)|CMYK 팬톤 컬러값|
 
 
 #### Icon
@@ -191,3 +203,20 @@ IT 소식을 볼 수 있는 사이트
 |[Mockup Hunt](https://mockuphunt.co/collections/free-mockups)||
 |[Pixeden](https://www.pixeden.com/free-graphics)||
 |[Weenidy](https://weenidy.com/resource/list?category=1)||
+
+
+---
+
+## Graphic Regerence
+
+|링크|설명|
+|:---:|---|
+|[The-Inspiration-Grid](https://theinspirationgrid.com/category/design/)|아트워크 기반 레퍼런스|
+|[Designspiration](https://www.designspiration.com/)|색상별로 확인할 수 있음, 이미지, 포스터|
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+
