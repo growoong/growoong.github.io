@@ -5,7 +5,7 @@ parent: Marketing
 nav_order: 1
 ---
 
-# Sites
+# Marketing Sites
 마케팅 콘텐츠 사이트 모음
 
 ## Table of contents
