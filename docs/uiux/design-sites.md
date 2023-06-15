@@ -159,7 +159,8 @@ IT 소식을 볼 수 있는 사이트
 |[RGB 팬톤](https://www.ginifab.com/feeds/pms/)|RGB 팬톤 컬러값|
 |[CMYK 팬톤](https://www.ginifab.com/feeds/pms/cmyk_to_pantone.php)|CMYK 팬톤 컬러값|
 |[Use Contrast](https://usecontrast.com/)|색 대비 확인 사이트|
-|[Color Safe](http://colorsafe.co/)|색 대비 확인 사이트2 / 배경색을 지정하면 그 배경색을 기준으로 괜찮은 요소 색상을 추천해준다.|
+|[Color Safe](http://colorsafe.co/)|색 대비 확인 사이트2 / 배경색을 지정하면 그것을 기준으로 괜찮은 요소의 색상 추천해줌.|
+|[Contrast-finder](https://app.contrast-finder.org/)|웹 접근성에 맞는 색상을 찾아준다. 만약 기준에 맞지 않을경우 대안을 추천해줌.|
 
 
 #### Icon
