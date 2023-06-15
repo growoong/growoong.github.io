@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Statistics
+title: Statistics Sites
 parent: UIUX
 nav_order: 3
 ---
