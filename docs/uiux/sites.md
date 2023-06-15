@@ -107,27 +107,6 @@ IT 소식을 볼 수 있는 사이트
 |[TechNeedle](https://techneedle.com/)|실리콘밸리중심 IT뉴스 요약|
 |[가트너](https://www.gartner.com/en)||
 
----
-
-## Tech Blog
-기업에서 운영하는 기술 블로그 모음
-
-|링크|설명|
-|:---:|---|
-|[Naver](https://d2.naver.com/home)||
-|[Kakao](https://tech.kakao.com/blog/)||
-|[Line](https://engineering.linecorp.com/ko/)||
-|[쿠팡](https://medium.com/coupang-tech/technote/home)||
-|[우아한형제들](https://techblog.woowahan.com/)||
-|[당근마켓](https://medium.com/daangn)||
-|[직방](https://medium.com/zigbang/)||
-|[야놀자](https://yanolja.github.io/)||
-|[마켓컬리](https://helloworld.kurly.com/)||
-|[넷플릭스](https://netflixtechblog.com/)||
-|[왓챠](https://medium.com/watcha)||
-|[뱅크샐러드](https://blog.banksalad.com/tech/)||
-|[무신사](https://medium.com/musinsa-tech)||
-|[Google](https://developers.googleblog.com/)||
 
 ---
 
