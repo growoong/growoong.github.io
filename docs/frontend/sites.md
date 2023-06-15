@@ -32,6 +32,7 @@ nav_order: 1
 
 |링크|비고|
 |:--:|--|
+|[CSS 선택자](https://www.nextree.co.kr/p8468/)||
 |[웹팩 핸드북](https://joshua1988.github.io/webpack-guide/guide.html)||
 |[타입스크립트 핸드북](https://typescript-kr.github.io/)||
 |[모던 JS 튜토리얼](https://ko.javascript.info/)||
