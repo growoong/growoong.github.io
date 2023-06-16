@@ -102,8 +102,7 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 ---
 
 ## 해외 에이전시 +30
-2022년 기준, [출처](https://www.cloudways.com/blog/best-web-design-agencies/)
-특징 적을 예정
+특징 적을 예정, [출처-2022년기준](https://www.cloudways.com/blog/best-web-design-agencies/)
 
 |링크|국가|
 |:---|---|
