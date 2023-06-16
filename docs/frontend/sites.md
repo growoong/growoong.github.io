@@ -32,6 +32,7 @@ nav_order: 1
 
 |링크|비고|
 |:--:|--|
+|[API모음](https://github.com/dl0312/open-apis-korea#%EC%82%AC%EC%A7%84)|한국인이 사용하면 좋을 API모음|
 |[CSS 선택자](https://www.nextree.co.kr/p8468/)||
 |[웹팩 핸드북](https://joshua1988.github.io/webpack-guide/guide.html)||
 |[타입스크립트 핸드북](https://typescript-kr.github.io/)||
