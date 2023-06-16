@@ -71,10 +71,9 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 ---
 
-## 에이전시
-추가 중
+## 국내 에이전시
 
-|링크|설명|
+|링크|슬로건|
 |:---:|---|
 |[디파이](https://www.dfy.co.kr/)|오늘의 디지털 마케팅, 그리고 내일을 위한 커뮤니케이션 디자인.|
 |[Plus X](https://object.plus-ex.com/)|Integrated Brand eXperience Solutions for your Brand|
@@ -100,6 +99,45 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 |||
 |[에이전시 정보 더보기](https://www.gdweb.co.kr/sub/agency.asp)||
 
+---
+
+## 해외 에이전시
+2022년 기준, [출처](https://www.cloudways.com/blog/best-web-design-agencies/)
+
+|링크|국가|
+|:---:|---|
+|🇺🇸미국||
+|[](https://www.azurodigital.com/)||
+|[](https://www.topnotchdezigns.com/)||
+|[](https://www.unifiedinfotech.net/)||
+|[](https://www.loungelizard.com/)||
+|[](https://huemor.rocks/)||
+|[](https://www.jordancrown.com/)||
+|[](https://www.kobedigital.com/)||
+|[](https://www.bopdesign.com/)||
+|[](https://www.eight25media.com/)|Good|
+|[](https://edesigninteractive.com/)||
+|[](https://www.scnsoft.com/services/web-design)||
+|[](https://www.boldwebagency.com/)||
+|🇬🇧영국||
+|[](https://www.squarebird.co.uk/)||
+|[](https://webheads.agency/en/)||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+
+
 
 ---
 
@@ -108,6 +146,7 @@ IT Contents, 자료
 
 |링크|설명|
 |:---:|---|
+|[Cloudways](https://www.cloudways.com/blog/best-web-design-agencies/)|해외 호스팅 사이트, 웹 관련 콘텐츠 제공|
 |[UIUX기본가이드 매거진-브런치](https://brunch.co.kr/magazine/muxui)|UIUX|
 |[w3 국제 웹 콘텐츠 접근성 기준](https://www.w3.org/TR/WCAG21/)||
 |[한국 웹 콘텐츠 접근성 지침](https://www.wah.or.kr:444/Participation/guide.asp)|한국 웹접근성, 자료|
