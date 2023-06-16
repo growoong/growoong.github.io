@@ -7,7 +7,7 @@ permalink: /
 ---
 
 #### Welcome to
-# library
+# IT library
 {: .fs-8 }
 
 유용한 사이트들을 정리하고 공유합니다.
@@ -18,7 +18,7 @@ Last Update 23.06.16
 {: .fs-3 .fw-300 }
 
 
-{: .important }
+{: .highlight }
 💡 새창으로 열기 : commend를 상태로, 링크를 클릭
 {: .fs-3 .fw-300 }
 
