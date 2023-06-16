@@ -173,6 +173,7 @@ IT Contents, 자료
 |[Iconmonstr](https://iconmonstr.com/)|디자이너 제작/저작권프리|
 |[ICON8](https://icons8.com/)||
 |[Fluenticons](https://fluenticons.co/)|마이크로소프트 아이콘 모음집|
+|[Simple-Icons](https://simpleicons.org/)|다양한 Stack Icon을 쉽게 저장할 수 있음, SVG 파일로|
 
 
 
