@@ -19,7 +19,7 @@ Last Update 23.06.16
 
 
 {: .highlight }
-💡 새창으로 열기 : commend를 누른 상태로, 링크를 클릭
+💡 새창으로 열기 : commend를 누른 상태로, 링크 클릭
 {: .fs-3 .fw-300 }
 
 ### 공유내용
