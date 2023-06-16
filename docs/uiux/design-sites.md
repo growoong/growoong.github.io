@@ -170,7 +170,7 @@ IT Contents, 자료
 |[PXD](https://story.pxd.co.kr/)||
 |[라이트 브랜인 블로그](https://blog.rightbrain.co.kr/)|UIUX|
 |[디지털 인사이트](https://ditoday.com/)|웹, UX, 마케팅 이야기 / 디지털 시대, 마케터로 사는 법|
-|[🔥리메인](https://www.remain.co.kr/page/designsystem/icon-size.php)|기본을 탄탄하게 볼 수 있음,UIUX|
+|[🔥리메인](https://www.remain.co.kr/page/designsystem/resolution-rasterized.php)|기본을 탄탄하게 볼 수 있음,UIUX|
 |[UX툴 모음](https://brunch.co.kr/@beusable/46)|UIUX|
 |[디자인 나침반](https://designcompass.org/)||
 |[월간디자인](https://mdesign.designhouse.co.kr/)||
