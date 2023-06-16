@@ -26,11 +26,11 @@ UX/UI의 10가지 심리학 법칙 - 존 야블론스키
 |힉의 법칙(Hick’s law)|의사결정에 걸리는 시간은 선택지의 개수와 복잡성에 비례해 늘어난다.|
 |밀러의 법칙(Miller’s law)|정보의 양에 상관없이 인간의 기억범위는 대략 7정도로 제한된다.|
 |포스텔의 법칙(Postel’s law)|자신이 행하는 일은 엄격하게, 남의 것을 받아들일 때는 너그럽게.[참고](https://ekimnida.tistory.com/34)|
-|피크엔드 법칙(Peak-End-Rule)||
-|테슬러의 법칙(Tesler’s law)||
-|폐쇄성의 법칙(Law of Closure)||
-|공통 영역의 법칙(Law of Common Region)||
-|근접의 법칙(Law of Proximity)||
+|피크엔드 법칙(Peak-End-Rule)|절정의 순간(Peak) 그리고 마지막 순간(End)에 느낀 감정이 기억속에 남는다.|
+|테슬러의 법칙(Tesler’s law)|더이상 줄일 수 없는 복잡성이 존재한다.|
+|폐쇄성의 법칙(Law of Closure)|대상을 완전하게 인지하기 위해, 빈 공간을 상상으로 메꾸려한다.|
+|공통 영역의 법칙(Law of Common Region)|공통 영역 내에 배치된 요소들은 그룹으로 인식된다.|
+|근접의 법칙(Law of Proximity)|근접하게 배치된 요소들은 동일한 개체로 인식된다.|
 |프라그나츠의 법칙(Law of Prägnanz)||
 |유사성의 법칙(Law of Similarity)||
 |균일 연결의 법칙(Law of Uniform Connectedness)||
