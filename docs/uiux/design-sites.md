@@ -104,7 +104,7 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 ## 해외 에이전시 +30
 특징 적을 예정, [출처-2022년기준](https://www.cloudways.com/blog/best-web-design-agencies/)
 
-|링크|국가|
+|링크|설명|
 |:---|---|
 |🇺🇸 미국 USA||
 |[azurodigital](https://www.azurodigital.com/)||
@@ -115,7 +115,7 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 |[jordancrown](https://www.jordancrown.com/)||
 |[kobedigital](https://www.kobedigital.com/)||
 |[bopdesign](https://www.bopdesign.com/)||
-|[eight25media](https://www.eight25media.com/)|Good|
+|[eight25media](https://www.eight25media.com/)||
 |[edesigninteractive](https://edesigninteractive.com/)||
 |[scnsoft](https://www.scnsoft.com/services/web-design)||
 |[boldwebagency](https://www.boldwebagency.com/)||
