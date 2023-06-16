@@ -72,16 +72,33 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 ---
 
 ## 에이전시
-
-{: .hightlight}
 추가 중
 
 |링크|설명|
 |:---:|---|
-|[Plus X](https://object.plus-ex.com/)||
-[스튜디오 제이티](https://studio-jt.co.kr/)||
-|[거인소프트](https://www.giantsoft.co.kr/)||
-|[]()||
+|[디파이](https://www.dfy.co.kr/)|오늘의 디지털 마케팅, 그리고 내일을 위한 커뮤니케이션 디자인.|
+|[Plus X](https://object.plus-ex.com/)|Integrated Brand eXperience Solutions for your Brand|
+|[거인소프트](https://www.giantsoft.co.kr/)|새로운 미래의 변화를 만들어 갑니다.|
+|[뮤자인](https://musign.net/)|디자인과 기술로 세상을 더욱 크리에이티브하게 만드는 '디지털아티스트컴퍼니' 입니다.|
+[스튜디오 제이티](https://studio-jt.co.kr/)|아름답고, 유용하며, 의미있는 파랑(波浪)을 만듭니다.|
+|[더즈 인터렉티브](https://www.does.kr/)|We are does- dream of electric sheep|
+|[GONET](https://www.agencygo.net/kr/)|공공기관, 박물관, 대학, 병원 등의 포털 구축 전문|
+|[리플렉션](https://reflexion.co.kr/)|리플렉션은 경험을 디자인합니다. 금융, 쇼핑, 모빌리티, 인공지능, 엔터테인먼트- 모두를 위한 UX.|
+|||
+|[매스티지](https://www.masstige.biz/main/main.html)|백 마디 말보다 차원이 다른 결과로 증명하겠습니다.|
+|[VW](http://www.v-w.co.kr/main.do)|마음속의 원더랜드. V˚WONDERLAND EXTENSION|
+|[제이브릭스](https://www.jbrix.co.kr/)|브랜딩에 강한 디지털 크리에이티브 그룹|
+|[플랜아이](https://www.plani.co.kr/)|정보를 쉽고 가치있게|
+|[맑음 디지털 에이전시](https://www.malgum.com/index.asp)|경쟁사를 압도하는 홈페이지로 성공을 도와 드립니다|
+|[Pulipinc](https://www.pulipinc.com/)|메이저 금융권 웹사이트 구축 경험이 많은 기업|
+|[애드캡슐](http://www.adcapsule.kr/)|사람이 만든 가치의 중요함을 알고 있는, 저희는 애드캡슐입니다|
+|[소이정](https://soijeong.com/)|늘 더 좋은 것을 생각하는, 우리는 소이정입니다.|
+|[뉴리버](http://www.newriver.co.kr/)|우리. 같이. 함께.|
+|[한봄스튜디오](https://hanbom.com/)|WE OFFER A CREATIVE NEW DIRECTION|
+|[바이널씨](https://www.vinylc.com/ko/main)|크리에이티브한 디자인과 UX 경험이 풍부|
+|[이지미디어](https://www.easymedia.net/Main/)|새로운 방향을 제시하는 이지미디어|
+|||
+|[에이전시 정보 더보기](https://www.gdweb.co.kr/sub/agency.asp)||
 
 
 ---
