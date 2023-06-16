@@ -52,11 +52,11 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 |링크|구분|설명|
 |:---:|---|---|
-|[pinterest](https://www.pinterest.co.kr/)|`all`{: .fs-3}||
-|[UI Movement](http://uimovement.com)|`mobile`{: .fs-3}||
-|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`{: .fs-3}||
+|[pinterest](https://www.pinterest.co.kr/)|`all`{: .fs-3 }||
+|[UI Movement](http://uimovement.com)|`mobile`{: .fs-3 	.text-green-000}||
+|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`{: .fs-3 	.text-green-000}||
 |[CSS 디자인 어워드](https://cssdesignawards.com)|`web`{: .fs-3}||
-|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`{: .fs-3}||
+|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`{: .fs-3 	.text-green-000}||
 |[윗 wwit](https://wwit.design/)|`mobile`{: .fs-3}||
 |[collectui](https://collectui.com/designs)|`web`{: .fs-3}||
 |[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`{: .fs-3}||
