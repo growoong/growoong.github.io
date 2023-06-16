@@ -52,21 +52,21 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 |링크|구분|설명|
 |:---:|---|---|
-|[pinterest](https://www.pinterest.co.kr/)|Default label{: .label }||
-|[UI Movement](http://uimovement.com)|`mobile`{: .fs-4}||
-|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile{: .fs-4}`||
-|[CSS 디자인 어워드](https://cssdesignawards.com)|`web`||
-|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`||
-|[윗 wwit](https://wwit.design/)|`mobile`||
-|[collectui](https://collectui.com/designs)|`web`||
-|[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`||
-|[디비컷](https://www.dbcut.com/)|`web`||
-|[Httpster](https://httpster.net/)|`web`|개성있는 사이트모음|
-|[Awwward](https://www.awwwards.com/)|`web`||
-|[Page collective](https://pagecollective.com/)|`web`|용도별로 확인가능|
-|[Inspire](https://www.ceros.com/inspire)|`web`|임베드 형식으로 확인, 편함|
-|[🔥lapa](https://www.lapa.ninja/color/blue/page/3/)|`web`||
-|[Pageflow](https://pageflows.com/)|`interation`||
+|[pinterest](https://www.pinterest.co.kr/)|`all`{: .fs-3}||
+|[UI Movement](http://uimovement.com)|`mobile`{: .fs-3}||
+|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`{: .fs-3}||
+|[CSS 디자인 어워드](https://cssdesignawards.com)|`web`{: .fs-3}||
+|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`{: .fs-3}||
+|[윗 wwit](https://wwit.design/)|`mobile`{: .fs-3}||
+|[collectui](https://collectui.com/designs)|`web`{: .fs-3}||
+|[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`{: .fs-3}||
+|[디비컷](https://www.dbcut.com/)|`web`{: .fs-3}||
+|[Httpster](https://httpster.net/)|`web`{: .fs-3}|개성있는 사이트모음|
+|[Awwward](https://www.awwwards.com/)|`web`{: .fs-3}||
+|[Page collective](https://pagecollective.com/)|`web`{: .fs-3}|용도별로 확인가능|
+|[Inspire](https://www.ceros.com/inspire)|`web`{: .fs-3}|임베드 형식으로 확인, 편함|
+|[🔥lapa](https://www.lapa.ninja/color/blue/page/3/)|`web`{: .fs-3}||
+|[Pageflow](https://pageflows.com/)|`interation`{: .fs-3}||
 
 
 ---
