@@ -53,8 +53,8 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 |링크|구분|설명|
 |:---:|---|---|
 |[pinterest](https://www.pinterest.co.kr/)|Default label{: .label }||
-|[UI Movement](http://uimovement.com)|`mobile`||
-|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`||
+|[UI Movement](http://uimovement.com)|`mobile`{: .fs-4}||
+|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile{: .fs-4}`||
 |[CSS 디자인 어워드](https://cssdesignawards.com)|`web`||
 |[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`||
 |[윗 wwit](https://wwit.design/)|`mobile`||
