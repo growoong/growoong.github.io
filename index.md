@@ -33,7 +33,7 @@ Last Update 23.06.16
 
 ---
 
-![Growoong-main-image](/assets/images/og-image.png){: width="600px" height="315px"}
+<!-- ![Growoong-main-image](/assets/images/og.png){: width="600px" height="315px"} -->
 ### SNS & Contact
 [Portfolio](#){: .fs-4 fw-300 .d-inline-block .mt-3 .text-grey-dk-000 } `준비중`
 [Blog](https://lifewebstudy.com/){: .fs-4 fw-300 .d-block .mt-1 .text-blue-100 }
