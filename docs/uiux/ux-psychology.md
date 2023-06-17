@@ -62,8 +62,8 @@ Last Update 23.06.18
 
 |효과|설명|
 |--|--|
-|미적 사용성 효과(Aesthetic-Usability Effect)||
-|폰 레스토프 효과(Von Restorff Effect)||
+|미적 사용성 효과(Aesthetic-Usability Effect)|매력적인 제품을 보다 유용하게 인식하려는 경향.|
+|폰 레스토프 효과(Von Restorff Effect)|평범한 것보다 특징적인 것이 더 기억하기 쉬운 경향.|
 |희소성 효과(Scarcity Effect)||
 |프레임 효과(Framing Effect)||
 |닻내림 효과(Anchoring Effect)||
