@@ -35,7 +35,7 @@ Last Update 23.06.18
 |유사성의 법칙(Law of Similarity)|형태를 지각할 때 시각적으로 비슷한 요소들끼리 묶어 지각하려는 경향을 말한다.|
 |균일 연결의 법칙(Law of Uniform Connectedness)|시각적으로 연결된 요소들은 관련성이 있는 것으로 인식한다.|
 |파킨슨의 법칙(Parkinson’s Law)|업무를 마치는 데 걸리는 시간이 업무를 위해 할당된 시간만큼 늘어난다.|
-|프레임 법칙(Frane Law)|똑같은 상황이라도 어떠한 틀을 가지고 상황을 해석하느냐에 따라 사람들의 사고와 행동이 달라진다.|
+|프레임 법칙(Frane Law)|똑같은 상황이라도 어떠한 틀을 가지고 상황을 해석하느냐에 따라 사람들의 사고와 행동이 달라진다.(=프레임 효과)|
 |(부드러운)연속성의 원리(Law of (Good) Continuation)|요소들이 부드러운 연속을 따라 함께 묶여 지각된다.|
 
 |기타|설명|
@@ -60,51 +60,43 @@ Last Update 23.06.18
 
 <!-- |지각적 맹시(Perceptual Blindness)|| -->
 
-|효과|설명|
+|효과, 인지심리학|설명|
 |--|--|
 |미적 사용성 효과(Aesthetic-Usability Effect)|매력적인 제품을 보다 유용하게 인식하려는 경향.|
 |폰 레스토프 효과(Von Restorff Effect)|평범한 것보다 특징적인 것이 더 기억하기 쉬운 경향.|
-|희소성 효과(Scarcity Effect)||
-|프레임 효과(Framing Effect)||
-|닻내림 효과(Anchoring Effect)||
+|희소성 효과(Scarcity Effect)|희소하다라고 인지하게 되면, 그 제품에 대ㅐ한 선호도가 올라간다.|
 |시작점 효과(Entry Point Effect)||
-|진행 부여 효과(Endowed Progress Effect)||
-|순차적(직렬) 위치 효과(Serial Position Effect)||
-|도허티 임계값(Doherty threshold)||
+|진행 부여 효과(Endowed Progress Effect)|이미 진행된 사항에 대해서는 동기부여가 훨씬 잘된다.|
+|순차적(직렬) 위치 효과(Serial Position Effect)|목록의 처음과 끝에 제시된 항목을 기억할 확률이 높다.|
+|도허티 임계값(Doherty threshold)|시스템의 반응은 0.4초이내에 이루어져야 한다.|
 |맥락효과(Context Effect)||
-|동안의 편향 효과 (Baby-Face Bias Effect)||
-|페이시즘 효과(Face-ism Effect)||
+|동안의 편향 효과 (Baby-Face Bias Effect)|동안의 사람들은 성숙해 보이는 사람들에 비해 더 순진하고, 무력하고, 정직하게 보는 경향.|
+|페이시즘 효과(Face-ism Effect)|외모를 중요시 여기는 경향이다.|
 |블랙 효과 (Black Effect)||
 |화이트 효과 (White Effect)||
 |스토리텔링 효과 (Storytelling Effect)||
-|목표 그라데이션 효과(Goal-Gradient Effect)||
-|오컴의 면도날(Occam’s Razor)||
-|자이가르니크 효과(Zeigarnik Effect)||
-|후광 효과(halo Effect)||
-|소유 효과 (Endowment Effect)||
-|칵테일파티 효과(Cocktail Party Effect)||
-|신기 효과(Novelty Effect)||
-|초두 효과(Primacy Effect)||
-|최신효과(Recency Effect)||
-|편승효과(Bandwagon Effect)||
-|정보 편향(Information Bias)||
-|선택의 역설(The Paradox Of Choice)||
-|손실 회피 편향(Loss Averstion)||
-
-
-
-|인지 심리학|설명|
-|--|--|
+|목표 그라데이션 효과(Goal-Gradient Effect)|목표에 도달할 수록, 목표에 도달하려는 경향이 높아지는 경향|
+|오컴의 면도날(Occam’s Razor)|설명은 단순한 것일수록 뛰어나다, 불필요한 가정을 늘이지마라.|
+|자이가르니크 효과(Zeigarnik Effect)|고의로 명확히 확실하게 끝내지 않아 일부러 사람드의 기억에 남기는 것이다.|
+|후광 효과(halo Effect)|부분적인 속성에서 받은 인상때문에, 다른 측면에서의 평가나 전체적인 평가가 영향을 받는 경향.|
+|소유 효과 (Endowment Effect)|물건을 소유하고 있을 때, 그 물건의 평가가 더 높게 나타나는 경향.|
+|칵테일파티 효과(Cocktail Party Effect)|인간은 자신이 집중하고자 하는 화자의 소리만을 들을 수 있다. 복수의 화자가 존재하여 동시에 발화를 하더라도|
+|신기 효과(Novelty Effect)|새로운 대상이 있으면, 주의집중이 더 강해진다.|
+|초두 효과(Primacy Effect)|처음에 제시된 정보가 더 강력한 영향을 미치는 현상.|
+|최신효과(Recency Effect)|최신에 들어온 정보가 인상이나 기억에 더 큰 영향을 끼치는 현상.|
+|편승효과(Bandwagon Effect)|다른 소비자들의 소비를 따라감으로써 수요가 증가하는 현상.|
+|선택의 역설(The Paradox Of Choice)|선택의 옵션이 많아질 수록, 오히려 결정을 내리기가 힘들어진다.|
+|손실 회피 편향(Loss Averstion)|이익으로 얻는 기쁨보다, 손실로 얻는 슬픔이 더 크게 느껴지는 현상.|
 |인지 부하(congnitive)|제품을 처음 접한 사용자가 인터페이스를 익히고 인터렉션 하는 데 필요한 정신적 자원의 양|
 |매슬로우 동기이론|인간의 욕구와 동기를 이해하기 위한 필수 지식, '생리적>안전>소속(사회적)>존경>자아실현'의 순서로 해당 단계의 욕구가 충족되면 상위욕구로 올라간다.|
 |행동경제학|인간의 실제 심리와 행동에 대한 연구 성과를 기반으로, 경제를 이해하는 학문이다.|
 |스트루프효과(Stroop Effect)|색상의 정보와 의미의 정보가 일치하지 않을 때, 이해하기까지 시간이 걸리는 현상.|
 |바이오필리아효과|사람은 본능적으로 생명이나 자연과의 관계를 원하고 있다. 자연을 가까이 함으로 생산성 향상, 스트레스 해소 등에 긍정적인 영향을 받는다.|
 |베블런효과|남들보다 돋보이고 싶은 심리로 물건 가격이 오르는 데도 불구하고 오히려 수요가 높아지는 현상이다.|
-|앵커링효과|처음에 제시된 어떠한 정보의 범위 내에서 크게 벗어나지 않게 이루어진다는 것을 말한다.|
-|칵테일파티효과|인간은 자신이 집중하고자 하는 화자의 소리만을 들을 수 있다. 복수의 화자가 존재하여 동시에 발화를 하더라도|
+|닻내림 효과(Anchoring Effect)|처음에 제시된 어떠한 정보의 범위 내에서 크게 벗어나지 않게 이루어진다는 것을 말한다.|
 |단계적공개(Progressive Disclosure)|복잡한 정보를 나중에 보았을때 압박감을 덜 받는다.|
 |점화효과|먼저 제시된 단어가 나중에 제시된 단어의 처리에 영향을 주는 효과.|
 
 <!-- |긍정적프레이밍효과|| -->
+<!-- |정보 편향(Information Bias)|| -->
 
