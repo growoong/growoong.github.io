@@ -31,28 +31,29 @@ UX/UI의 10가지 심리학 법칙 - 존 야블론스키
 |폐쇄성의 법칙(Law of Closure)|대상을 완전하게 인지하기 위해, 빈 공간을 상상으로 메꾸려한다.|
 |공통 영역의 법칙(Law of Common Region)|공통 영역 내에 배치된 요소들은 그룹으로 인식된다.|
 |근접의 법칙(Law of Proximity)|근접하게 배치된 요소들은 동일한 개체로 인식된다.|
-|프라그나츠의 법칙(Law of Prägnanz)||
-|유사성의 법칙(Law of Similarity)||
-|균일 연결의 법칙(Law of Uniform Connectedness)||
-|파킨슨의 법칙(Parkinson’s Law)||
-|프레이밍 법칙||
-|부드러운 연속성의 원리(Law of Good Continuation)||
+|프라그나츠의 법칙(Law of Prägnanz)|인간의 눈은 복잡한 형태로부터 단순함과 질서를 찾는 것을 좋아한다.|
+|유사성의 법칙(Law of Similarity)|형태를 지각할 때 시각적으로 비슷한 요소들끼리 묶어 지각하려는 경향을 말한다.|
+|균일 연결의 법칙(Law of Uniform Connectedness)|시각적으로 연결된 요소들은 관련성이 있는 것으로 인식한다.|
+|파킨슨의 법칙(Parkinson’s Law)|업무를 마치는 데 걸리는 시간이 업무를 위해 할당된 시간만큼 늘어난다.|
+|프레임 법칙(Frane Law)|똑같은 상황이라도 어떠한 틀을 가지고 상황을 해석하느냐에 따라 사람들의 사고와 행동이 달라진다.|
+|(부드러운)연속성의 원리(Law of (Good) Continuation)|요소들이 부드러운 연속을 따라 함께 묶여 지각된다.|
 
 |기타|설명|
 |--|--|
-|지각 항상성(Perceptual Constancy)||
+|지각 항상성(Perceptual Constancy)|친숙한 대상을 볼 때, 대상의 크기와 모양이 변하더라도, 대상의 크기를 향상적인 것으로 인식하는 것이다.(좀 더 쉽게 적기)|
 |확증편향(Confirmation Bias)||
-|휴리스틱(heuristics)||
-|게슈탈트(Gestalt)||
-|지각적 맹시(Perceptual Blindness)||
-|어포던스(Affordance)||
+|휴리스틱(heuristics)|인지자원고갈 상태에서 합리적인 판단 보다는 즉흥적이고 바로 실현가능한 결정을 위해 대충 어릶짐작을 하는 것.|
+|인지적 구두쇠(Congnitive miser)||
+|게슈탈트(Gestalt)|눈으로 들어오는 정보를 단순히 받아들이지 않고, 몇몇 부분을 수정, 보강해서 지각하게 된다.|
+<!-- |지각적 맹시(Perceptual Blindness)|| -->
+|어포던스(Affordance)|행동을 유도한다.|
 |넛지 효과(Nudge Effect)||
 |전망 이론(prospect theory)||
 |부정성 편향(Negativity Bias)||
 |매력의 편향 (Attractiveness Bias)||
 |파레토 원리(Pareto Principle)||
 |[참고하여 작성하기](https://yozm.wishket.com/magazine/detail/452/)||
-|||
+|초점(Focal Points)|강조되는 부분으로 사용자의 주의를 집중시킨다.|
 |||
 |||
 
