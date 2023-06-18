@@ -7,8 +7,6 @@ nav_order: 2
 
 # UX 심리학
 
-UX개론 모음 사이트
-
 {: .highlight }
 Last Update 23.06.18
 
