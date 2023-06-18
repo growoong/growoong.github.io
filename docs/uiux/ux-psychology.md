@@ -8,10 +8,6 @@ nav_order: 2
 # UX 심리학
 
 UX개론 모음 사이트
-[https://lawsofux.com/](https://lawsofux.com/)
-
-UX/UI의 10가지 심리학 법칙 - 존 야블론스키
-
 
 {: .highlight }
 Last Update 23.06.18
@@ -99,4 +95,11 @@ Last Update 23.06.18
 
 <!-- |긍정적프레이밍효과|| -->
 <!-- |정보 편향(Information Bias)|| -->
+
+
+---
+
+[https://lawsofux.com/](https://lawsofux.com/)
+
+UX/UI의 10가지 심리학 법칙 - 존 야블론스키
 
