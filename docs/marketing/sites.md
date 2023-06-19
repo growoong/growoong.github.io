@@ -8,6 +8,10 @@ nav_order: 1
 # Marketing Sites
 마케팅 콘텐츠 사이트 모음
 
+{: .hightlight}
+Last Update 23.06.19 Mon
+
+
 ## Table of contents
 {: .no_toc .text-delta }
 
