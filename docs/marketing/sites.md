@@ -39,6 +39,7 @@ Last Update 23.06.19 Mon
 |링크|비고|
 |:--:|--|
 [포브스 Forbes](https://www.forbes.com/?sh=67d622ea2254)|미국의 출판&미디어 기업, 분야별 순위를 선정하여 발표함.|
+[비즈니스 코리아 business Korea](http://www.businesskorea.co.kr/)||
 
 ---
 
