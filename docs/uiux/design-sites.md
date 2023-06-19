@@ -175,7 +175,7 @@ IT Contents, 자료
 |[디자인 나침반](https://designcompass.org/)||
 |[월간디자인](https://mdesign.designhouse.co.kr/)||
 |[DesignBoom](https://www.designboom.com/design/)||
-|[hypebeast](https://hypebeast.kr/)||
+|[hypebeast](https://hypebeast.kr/)|패션, 스포츠, 엔터테인먼트 주제를 다루는 미디어|
 |[타이포그래피 서울](https://typographyseoul.com/home/)||
 |[InspirationGrid](https://theinspirationgrid.com/)||
 |[🔥요즘 IT](https://yozm.wishket.com/magazine/)||
