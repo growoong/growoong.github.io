@@ -8,7 +8,7 @@ nav_order: 1
 # Marketing Sites
 마케팅 콘텐츠 사이트 모음
 
-{: .hightlight}
+{: .highlight}
 Last Update 23.06.19 Mon
 
 
