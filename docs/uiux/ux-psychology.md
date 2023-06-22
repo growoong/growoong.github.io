@@ -2,7 +2,7 @@
 layout: default
 title: UX Psychology
 parent: UIUX
-nav_order: 2
+nav_order: 3
 ---
 
 # UX 심리학
