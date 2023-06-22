@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Statistics Sites
-parent: UIUX
-nav_order: 3
+parent: ETC
+nav_order: 1
 ---
-# 통계자료
+# 통계자료 사이트 모음
 
 ---
 
