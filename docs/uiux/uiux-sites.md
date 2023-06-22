@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Designe Sites
+title: UIUX Sites
 parent: UIUX
 nav_order: 2
 ---
-# UIUX Design Sites
+# UIUX Sites
 
 ---
 
