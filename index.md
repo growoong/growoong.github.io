@@ -16,7 +16,7 @@ permalink: /
 
 {: .highlight }
 **Last Update** 23.06.21 Thu
-{: .fs-5 .fw-300 }
+{: .fs-3 .fw-300 }
 
 
 {: .note }
@@ -26,7 +26,7 @@ permalink: /
 ---
 
 #### 공유내용
-{: .fs-3 .fw-300 }
+{: .fs-5 .fw-300 }
 
 ## UIUX
 - [UIUX 유용한 사이트](https://growoong.github.io/docs/uiux/uiux-sites/)
