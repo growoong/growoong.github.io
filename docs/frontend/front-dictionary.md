@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FE-Dictionary
-parent: UIUX
+parent: FrontEnd
 nav_order: 1
 ---
 # Frontend Dictionary
