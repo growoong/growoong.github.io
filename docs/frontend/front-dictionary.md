@@ -2,7 +2,7 @@
 layout: default
 title: FE-Dictionary
 parent: Front End
-nav_order: 1
+nav_order: 3
 ---
 # Frontend Dictionary
 
