@@ -6,6 +6,10 @@ nav_order: 1
 ---
 # Frontend Dictionary
 
+{: .highlight }
+**Last Update** 23.06.21 Thu
+{: .fs-3 .fw-300 }
+
 ---
 
 ## Table of contents
