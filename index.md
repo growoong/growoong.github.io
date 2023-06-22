@@ -29,21 +29,21 @@ permalink: /
 {: .fs-5 .fw-300 }
 
 ## UIUX
-- [UIUX 유용한 사이트](https://growoong.github.io/docs/uiux/uiux-sites/)
-- [UX 심리학](https://growoong.github.io/docs/uiux/ux-psychology/)
-- [UIUX 사전](https://growoong.github.io/docs/uiux/dictionary/)
+- [UIUX 유용한 사이트](https://growoong.github.io/docs/uiux/02-uiux-sites/)
+- [UX 심리학](https://growoong.github.io/docs/uiux/03-ux-psychology/)
+- [UIUX 사전](https://growoong.github.io/docs/uiux/04-dictionary/)
 
 ## Front End
-- [공부하기 좋은 사이트 모음](https://growoong.github.io/docs/frontend/frontend-sites/)
-- [Front End 단어 사전](https://growoong.github.io/docs/frontend/front-dictionary/)
+- [공부하기 좋은 사이트 모음](https://growoong.github.io/docs/frontend/02-frontend-sites/)
+- [Front End 단어 사전](https://growoong.github.io/docs/frontend/03-front-dictionary/)
 
 ## Design
 - [작업시 유용한 디자인 사이트 모음](https://growoong.github.io/docs/Design/02-design-sites/)
 
 ## ETC
-- [다양한 통계자료 사이트](https://growoong.github.io/docs/etc/statistics-sites/)
-- [마케팅 사이트](https://growoong.github.io/docs/etc/marketing-sites/)
-- [피그마 플러그인&파일 추천](https://growoong.github.io/docs/etc/figma/)
+- [다양한 통계자료 사이트](https://growoong.github.io/docs/etc/02-statistics-sites/)
+- [마케팅 사이트](https://growoong.github.io/docs/etc/03-marketing-sites/)
+- [피그마 플러그인&파일 추천](https://growoong.github.io/docs/etc/04-figma/)
 
 
 
