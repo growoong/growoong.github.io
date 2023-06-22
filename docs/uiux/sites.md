@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sites
-parent: Marketing
-nav_order: 1
+title: etc-sites
+parent: UIUX
+nav_order: 99
 ---
 
 # Marketing Sites
