@@ -16,7 +16,7 @@ permalink: /
 
 {: .highlight }
 **Last Update** 23.06.21 Thu
-{: .fs-3 .fw-300 }
+{: .fs-5 .fw-300 }
 
 
 {: .note }
