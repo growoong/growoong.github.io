@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plugin
+title: figma
 parent: ETC
 nav_order: 3
 ---
