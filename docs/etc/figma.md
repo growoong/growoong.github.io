@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Plugin
-parent: Figma
-nav_order: 1
+parent: ETC
+nav_order: 3
 ---
 
 # Figma Plugin
