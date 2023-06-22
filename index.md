@@ -13,7 +13,6 @@ permalink: /
 유용한 사이트들을 정리하고 공유합니다.
 <br>
 각 항목별 자세한 내용은 Blog에 작성할 예정입니다.
-<!-- {: .fs-4 .fw-300 } -->
 
 {: .highlight }
 **Last Update** 23.06.21 Thu
@@ -25,7 +24,7 @@ permalink: /
 {: .fs-3 .fw-300 }
 
 ### 공유내용
-- UI
+- [UI](#/docs/uiux/uiux.md)
 - Reference
 - UX
 - FrontEnd
