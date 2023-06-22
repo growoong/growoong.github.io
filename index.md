@@ -37,7 +37,7 @@ permalink: /
 - [Front End 단어 사전](https://growoong.github.io/docs/frontend/front-dictionary/)
 
 ## Design
-- [작업시 유용한 디자인 사이트 모음]()
+- [작업시 유용한 디자인 사이트 모음](https://growoong.github.io/docs/Design/02-design-sites/)
 
 ## ETC
 - [다양한 통계자료 사이트](https://growoong.github.io/docs/etc/statistics-sites/)
