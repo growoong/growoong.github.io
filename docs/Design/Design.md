@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Figma
-nav_order: 3
+title: Design
+nav_order: 4
 has_children: true
 ---
 
-# Figma
+# Design
 {: .no_toc }
