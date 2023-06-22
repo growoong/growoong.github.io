@@ -24,7 +24,7 @@ permalink: /
 {: .fs-3 .fw-300 }
 
 ### 공유내용
-- [UI](#/docs/uiux/uiux.md)
+- [UI](#uiux.md)
 - Reference
 - UX
 - FrontEnd
