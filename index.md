@@ -24,12 +24,7 @@ permalink: /
 {: .fs-3 .fw-300 }
 
 ### 공유내용
-- [UI](#uiux.md)
-- Reference
-- UX
-- FrontEnd
-- IT Contents
-- Marketing
+
 
 
 ---
