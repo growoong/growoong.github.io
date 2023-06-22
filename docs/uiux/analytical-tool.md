@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Analytical Tool
-parent: Marketing
-nav_order: 3
+parent: UIUX
+nav_order: 99
 ---
 
 # Marketing Analytical Tool
