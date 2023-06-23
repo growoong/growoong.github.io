@@ -37,6 +37,9 @@ nav_order: 2
 |[웹팩 핸드북](https://joshua1988.github.io/webpack-guide/guide.html)||
 |[타입스크립트 핸드북](https://typescript-kr.github.io/)||
 |[모던 JS 튜토리얼](https://ko.javascript.info/)||
+|[웹프로그래밍 튜토리얼](https://poiemaweb.com/)||
+|[벨로퍼트와 함께 하는 모던 자바스크립트](https://learnjs.vlpt.us/)||
+|[벨로퍼트와 함께 하는 모던 리액트](https://react.vlpt.us/)||
 |[Velopert](https://velog.io/@velopert)||
 |[Zerocho](https://www.zerocho.com/)||
 |[Jbee](https://jbee.io/)||
@@ -47,8 +50,6 @@ nav_order: 2
 |[고퀄리티 개발모음](https://github.com/Integerous/goQuality-dev-contents)||
 |[면접관련 질문](https://github.com/jojoldu/junior-recruit-scheduler)||
 |[취준생이 반드시 알아야할 FE 지식](https://github.com/baeharam/Must-Know-About-Frontend)||
-|[벨로퍼트와 함께 하는 모던 자바스크립트](https://learnjs.vlpt.us/)||
-|[벨로퍼트와 함께 하는 모던 리액트](https://react.vlpt.us/)||
 |[리액트를 다루는 기술(개정판)](https://thebook.io/080203/)||
 |[TypeScript Cookbook](https://2woongjae.notion.site/TypeScript-Cookbook-727820ac0d4544498ebe732e940816f4)||
 |[DevFest WebTech CodeLab 2019](https://hyunseob.notion.site/DevFest-WebTech-CodeLab-fcc4ab44f4e34efe850a199dcb95ad01)||
