@@ -23,8 +23,8 @@ nav_order: 2
 |:---:|---|
 |[Repo](https://designsystemsrepo.com/design-systems)|해외 디자인 시스템 모음 사이트|
 |[Component Gallery](https://component.gallery/components/)|컴포넌트, 서비스 별로 확인할 수 있다|
-|[Apple HIG](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios)||
-|[Material](https://m3.material.io/)||
+|[Apple HIG](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios)|애플|
+|[Material](https://m3.material.io/)|구글 머터리얼 디자인 시스템 3|
 |[IBM](https://www.ibm.com/design/language/)||
 |[Line](https://designsystem.line.me/)||
 |[Salesforce](https://www.lightningdesignsystem.com/guidelines/overview/)||
@@ -48,30 +48,30 @@ nav_order: 2
 ---
 
 ## UI Reference
-UI 디자인볼 수 있는 레퍼런스 사이트 모음
+APP, WEB의 UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 |링크|구분|설명|
 |:---:|---|---|
-|[pinterest](https://www.pinterest.co.kr/)|`all`{: .fs-3 }||
-|[UI Movement](http://uimovement.com)|`mobile`{: .fs-3 }||
-|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`{: .fs-3 }||
-|[CSS 디자인 어워드](https://cssdesignawards.com)|`web`{: .fs-3}||
-|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`{: .fs-3 }||
-|[윗 wwit](https://wwit.design/)|`mobile`{: .fs-3}||
-|[collectui](https://collectui.com/designs)|`web`{: .fs-3}||
-|[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`{: .fs-3}||
-|[디비컷](https://www.dbcut.com/)|`web`{: .fs-3}||
-|[Httpster](https://httpster.net/)|`web`{: .fs-3}|개성있는 사이트모음|
-|[Awwward](https://www.awwwards.com/)|`web`{: .fs-3}||
+|[pinterest](https://www.pinterest.co.kr/)|`all`{: .fs-3 }| UI 뿐만아니라, 다양한 이미지레퍼런스 제공|
+|[screenlane](https://screenlane.com/)|`mobile`{: .fs-3 }|분야별, 상황별 UI를 볼 수 있도록, 카테고리가 잘 짜져있음.|
+|[UI Design Daily](https://www.uidesigndaily.com/)|`mobile`{: .fs-3 }|개인이 운영하는 홈페이지, 피그마 파일을 다운받을 수 있다, 슬쩍 보기 좋음.|
+|[CSS 디자인 어워드](https://cssdesignawards.com)|`web`{: .fs-3}|어워드 홈페이지, 인터렉션이 신기한 홈페이지들이 많이 있다. 구경하기 좋음|
+|[🔥모빈 mobbin](https://mobbin.com/browse/ios/apps)|`mobile`{: .fs-3 }|유료, 해외 app 화면 캡쳐본 모음|
+|[윗 wwit](https://wwit.design/)|`mobile`{: .fs-3}|무료, 국내 app 화면 캡쳐본 모음|
+|[collectui](https://collectui.com/designs)|`web`{: .fs-3}|분야별, 상황별 UI를 볼 수 있도록, 카테고리가 잘 짜져있음.|
+|[지디웹](https://www.gdweb.co.kr/sub/list.asp?Txt_fgbn=7)|`web`{: .fs-3}|국내 우수 웹디자인 선정 및 시상|
+|[디비컷](https://www.dbcut.com/)|`web`{: .fs-3}|웹디자인 평가 및 우수 웹사이트 모음|
+|[Httpster](https://httpster.net/)|`web`{: .fs-3}|개성있는 웹사이트 모음, Website Design Inspiration|
+|[Awwward](https://www.awwwards.com/)|`web`{: .fs-3}|해외,웹사이트 어워드|
 |[Page collective](https://pagecollective.com/)|`web`{: .fs-3}|용도별로 확인가능|
 |[Inspire](https://www.ceros.com/inspire)|`web`{: .fs-3}|임베드 형식으로 확인, 편함|
-|[🔥lapa](https://www.lapa.ninja/color/blue/page/3/)|`web`{: .fs-3}||
-|[Pageflow](https://pageflows.com/)|`interation`{: .fs-3}||
+|[🔥lapa](https://www.lapa.ninja/color/blue/page/3/)|`web`{: .fs-3}|웹사이트 랜딩페이지 모음 사이트|
+|[Pageflow](https://pageflows.com/)|`interation`{: .fs-3}|제품별, User flows 별로 확인 가능하다.|
 
 
 ---
 
-## 국내 에이전시
+## 국내 웹 에이전시
 
 |링크|슬로건|
 |:---|---|
@@ -101,8 +101,7 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 ---
 
-## 해외 에이전시 +30
-특징 적을 예정, [출처-2022년기준](https://www.cloudways.com/blog/best-web-design-agencies/)
+## 해외 웹 에이전시 +30
 
 |링크|설명|
 |:---|---|
@@ -153,8 +152,8 @@ UI 디자인볼 수 있는 레퍼런스 사이트 모음
 
 ---
 
-## IT Contents
-IT Contents, 자료
+## IT 콘텐츠 사이트
+정기적으로 올라오는 IT 소식, 정보를 볼 수 있는 사이트들
 
 |링크|설명|
 |:---:|---|
@@ -195,7 +194,7 @@ IT Contents, 자료
 
 ---
 
-## Source
+## 디자인 소스
 이미지, 일러스트, 아이콘 등
 
 #### UI, WEB
@@ -278,35 +277,5 @@ IT Contents, 자료
 |[Tenor](https://tenor.com/)||
 |[Splitshire](https://www.splitshire.com/)|이미지+영상|
 
----
 
-## Mockup
-목업모음
-
-|링크|설명|
-|:---:|---|
-|[CSS](https://cssauthor.com/mockups/)||
-|[PSD Mockup](https://www.psdmockups.com/category/design/)||
-|[Free Mockup](https://www.free-mockup.com/)||
-|[Graphiccapear](https://www.graphicpear.com/mockups/)||
-|[Zippypixels](https://zippypixels.com/products/mockups/)||
-|[Mockup Hunt](https://mockuphunt.co/collections/free-mockups)||
-|[Pixeden](https://www.pixeden.com/free-graphics)||
-|[Weenidy](https://weenidy.com/resource/list?category=1)||
-
-
----
-
-## Graphic Regerence
-
-|링크|설명|
-|:---:|---|
-|[The-Inspiration-Grid](https://theinspirationgrid.com/category/design/)|아트워크 기반 레퍼런스|
-|[Designspiration](https://www.designspiration.com/)|색상별로 확인할 수 있음, 이미지, 포스터|
-|[Typographicposters](https://www.typographicposters.com/)|타이포 그래픽 포스터|
-|[illustration X](https://www.illustrationx.com/)|일러스트|
-|[Deviantart](https://www.deviantart.com/?offset=0)|일러스트|
-|[Imgmodels](https://www.imgmodels.com/london/men)|모델 프로필 모음|
-|[Uncrate](https://uncrate.com/tv/)|해외 광고 영상 모음|
-|[Packagingoftheworld](https://packagingoftheworld.com/)|패키지 디자인 레퍼런스|
 
