@@ -21,6 +21,7 @@ nav_order: 1
 
 |링크|설명|
 |:---:|---|
+|[사진-점선면 편집](https://spiralbetty.com/)|새로운 추가|
 |[Repo](https://designsystemsrepo.com/design-systems)|해외 디자인 시스템 모음 사이트|
 |[Component Gallery](https://component.gallery/components/)|컴포넌트, 서비스 별로 확인할 수 있다|
 |[Apple HIG](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios)||
