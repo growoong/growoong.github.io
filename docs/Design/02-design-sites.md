@@ -46,3 +46,19 @@ nav_order: 1
 |[Uncrate](https://uncrate.com/tv/)|해외 광고 영상 모음|
 |[Packagingoftheworld](https://packagingoftheworld.com/)|패키지 디자인 레퍼런스|
 
+
+---
+## Blender 3D
+
+|링크|설명|
+|:---:|---|
+|[TurboSquid](https://www.turbosquid.com/ko/)|세계 최대 3D 모델 판매 사이트|
+|[Pie3D](https://www.pie3d.com/)|국내 3D 모델, 에셋 판매 사이트|
+|[Ploy Haven](https://polyhaven.com/)|무료 HDRI, Texture, Model 사이트|
+|[Blender Market](https://blendermarket.com/)|세계 최대의 블렌더 애드온 스토어|
+|[Blender Manuall](https://docs.blender.org/manual/en/latest/)|블렌더의 모든 기능을 문서로 볼 수 있음|
+|[mixamo](https://www.mixamo.com/#/)|무료 애니메이션 데이터 사이트|
+|유료에셋||
+|[J-Mograph](https://blendermarket.com/products/mograph)|C4D 기능을 차용해 블렌더의 부족한 모션그래픽 기능을 보완 해줌(Geo노드 개념 탑재 필수)|
+|[Poly Haven Asset Browser](https://blendermarket.com/products/poly-haven-asset-browser)|Poly Haven의 HDRI, 텍스처, 에셋 들을 블렌더 내부에서 즉각적으로 다운로드할 수 있다|
+
