@@ -15,8 +15,7 @@ permalink: /
 각 항목별 자세한 내용은 Blog에 작성할 예정입니다.
 
 {: .highlight }
-**Last Update** 23.06.25 Sun
-{: .fs-3 .fw-300 }
+Last Update 23.06.25 Sun
 
 
 {: .note }
