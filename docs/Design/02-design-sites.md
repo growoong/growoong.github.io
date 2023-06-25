@@ -49,6 +49,7 @@ nav_order: 1
 
 ---
 ## Blender 3D
+사이트와 유튜브 스터디 사이트 추천
 
 |링크|설명|
 |:---:|---|
@@ -61,4 +62,13 @@ nav_order: 1
 |유료에셋||
 |[J-Mograph](https://blendermarket.com/products/mograph)|C4D 기능을 차용해 블렌더의 부족한 모션그래픽 기능을 보완 해줌(Geo노드 개념 탑재 필수)|
 |[Poly Haven Asset Browser](https://blendermarket.com/products/poly-haven-asset-browser)|Poly Haven의 HDRI, 텍스처, 에셋 들을 블렌더 내부에서 즉각적으로 다운로드할 수 있다|
-
+|||
+|유튜브 채널 추천||
+|[이것저것 한교수](https://www.youtube.com/@prof_han)||
+|[Blender Guru](https://www.youtube.com/@blenderguru)|도넛만들기로 유명|
+|[Ducky 3D](https://www.youtube.com/@TheDucky3D)||
+|[NENGHUO](https://www.youtube.com/@nenghuo)||
+|[Entagma](https://www.youtube.com/@Entagma)||
+|[CrossMind Studio](https://www.youtube.com/@CrossMindStudio)||
+|[modifiers](https://youtu.be/idcFMhoSdIc)|All 54 Modifiers in Blender Explained in 10 Minutes[|
+|[Blender material nodes](https://youtu.be/cQ0qtcSymDI)|All 80+ Blender material nodes explained in under 30 minutes|
