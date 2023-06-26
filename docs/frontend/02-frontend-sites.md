@@ -24,6 +24,11 @@ nav_order: 2
 |[Devdocs](https://devdocs.io/)|공식문서 모음집|
 |[MDN_mozilla](https://developer.mozilla.org/ko/)||
 |[티스토리 스킨 제작 가이드](https://tistory.github.io/document-tistory-skin/)||
+|[리액트 공식문서](https://reactnative.dev/docs/components-and-apis)||
+|[RN 개발자 블로그](https://dev-yakuza.posstree.com/ko/react-native/)|Deku, 리액트, 리액트 라이브러리 사용방법 공유|
+|[RN 화면전환, 라우터](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)||
+|[리액트 버전확인](https://react-native-community.github.io/upgrade-helper/?from=0.59.8&to=0.60.4)|리액트 버전별 비교 가능|
+|[리액트.ko](https://ko.legacy.reactjs.org/docs/getting-started.html)||
 
 
 ---
