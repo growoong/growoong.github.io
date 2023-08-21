@@ -9,7 +9,7 @@ nav_order: 1
 # Design Sites
 ---
 {: .highlight }
-Last Update 23.06.25 Sun
+Last Update 23.08.21 Mon
 
 
 ## Table of contents
@@ -18,6 +18,14 @@ Last Update 23.06.25 Sun
 1. TOC
 {:toc}
 
+---
+
+## 유용한 사이트
+기타등등 유용한 사이트
+
+|링크|설명|
+|:---:|---|
+|[이미지픽셀화](https://app.monopro.org/pixel/)|[설명](https://grayroom.tistory.com/4)|
 ---
 
 ## Mockup
