@@ -26,6 +26,7 @@ Last Update 23.08.21 Mon
 |링크|설명|
 |:---:|---|
 |[이미지픽셀화](https://app.monopro.org/pixel/)|[설명](https://grayroom.tistory.com/4)|
+|[HEX를 Pantone 컬러로 변환](https://codebeautify.org/hex-to-pantone-converter)||
 
 ---
 
