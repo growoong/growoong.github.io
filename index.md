@@ -2,12 +2,12 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Growoong | UIUX, IT Library"
+description: "UIUX, WEB SITE Library"
 permalink: /
 ---
 
 #### Welcome to
-# IT library
+# WEB SITE Library
 {: .fs-8 }
 
 유용한 사이트들을 정리하고 공유합니다.
