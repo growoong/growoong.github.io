@@ -11,8 +11,13 @@ permalink: /
 {: .fs-8 }
 
 유용한 사이트들을 정리하고 공유합니다.
-<br>
-각 항목별 자세한 내용은 Blog에 작성할 예정입니다.
+
+## SNS & Contact
+{: .fs-5 .fw-300 }
+
+[Portfolio](#){: .fs-4 fw-300 .d-inline-block .mt-3 .text-grey-dk-000 } `준비중`
+[Blog](https://lifewebstudy.com/){: .fs-4 fw-300 .d-block .mt-1 .text-blue-100 }
+
 
 {: .highlight }
 Last Update 23.12.03 Sun
@@ -56,5 +61,4 @@ Last Update 23.12.03 Sun
 
 [Portfolio](#){: .fs-4 fw-300 .d-inline-block .mt-3 .text-grey-dk-000 } `준비중`
 [Blog](https://lifewebstudy.com/){: .fs-4 fw-300 .d-block .mt-1 .text-blue-100 }
-[Figma](https://www.figma.com/@growoong){: .fs-4 fw-300 .d-block .mt-2 .text-blue-100 }
 
