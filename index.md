@@ -18,7 +18,7 @@ permalink: /
 [Portfolio](#){: .fs-4 fw-300 .d-inline-block .mt-3 .text-grey-dk-000 } `준비중`
 [Blog](https://lifewebstudy.com/){: .fs-4 fw-300 .d-block .mt-1 .text-blue-100 }
 
-
+<!--
 {: .highlight }
 Last Update 23.12.03 Sun
 
@@ -26,6 +26,7 @@ Last Update 23.12.03 Sun
 {: .note }
 💡 **새창으로 열기** :commend를 누른 상태로, 링크 클릭 / 마우스 휠 누른 상태로, 링크 클릭
 {: .fs-3 .fw-300 }
+-->
 
 ---
 
