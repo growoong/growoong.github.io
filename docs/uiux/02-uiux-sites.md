@@ -202,6 +202,7 @@ APP, WEB의 UI 디자인볼 수 있는 레퍼런스 사이트 모음
 |링크|설명|
 |:---:|---|
 |[Filecr](https://filecr.com/en/?id=450308710000)|크랙파일다운|
+|[Softonic](https://www.softonic.kr/)|소픝웨어 앱모음|
 |[UPiabs](https://www.uplabs.com/)||
 |[Ui8](https://ui8.net/)||
 |[sketch](https://www.sketchappsources.com/)|스케치파일 위주|
