@@ -18,7 +18,7 @@ remote_theme: just-the-docs/just-the-docs
 title: IT Library
 description: UIUX, IT Library.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://growoong.gihhub.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://linkpangpang.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
